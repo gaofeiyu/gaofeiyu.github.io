@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lab.gaofeiyu.com/"/>
+  <link href="http://gaofeiyu.com/"/>
   <updated>2017-09-06T07:32:55.000Z</updated>
-  <id>http://lab.gaofeiyu.com/</id>
+  <id>http://gaofeiyu.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lab.gaofeiyu.com/2017/09/06/hello-world/"/>
-    <id>http://lab.gaofeiyu.com/2017/09/06/hello-world/</id>
+    <link href="http://gaofeiyu.com/2017/09/06/hello-world/"/>
+    <id>http://gaofeiyu.com/2017/09/06/hello-world/</id>
     <published>2017-09-06T07:32:55.000Z</published>
     <updated>2017-09-06T07:32:55.000Z</updated>
     
